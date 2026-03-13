@@ -54,6 +54,8 @@ int main(void) {
 ```
 ## Output
 
+![WhatsApp Image 2026-03-13 at 11 24 37](https://github.com/user-attachments/assets/89e2f48a-3aa7-4414-a9c3-094f52ea20ae)
+
  
 
 ## Result
