@@ -53,7 +53,7 @@ int main(void) {
 }
 ```
 ## Output
-![Output Screenshot][def]
+[def]
 ---
 
 ## Result
@@ -61,5 +61,4 @@ Thus, a simple Hello World application was successfully developed, compiled, and
 
 ---
 
-
-[def]: 1.png
+[def]= 1.png
