@@ -249,7 +249,7 @@ main, exiting
 ---
 
 # Output
-
+![alt text](EXP202-1.png)
 ---
 
 # Result
