@@ -249,7 +249,8 @@ main, exiting
 ---
 
 # Output
-![alt text](EXP202-1.png)
+<img width="1439" height="795" alt="image" src="https://github.com/user-attachments/assets/3e85ae2a-eff1-43db-a502-c49235644243" />
+
 ---
 
 # Result
